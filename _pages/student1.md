@@ -1,3 +1,3 @@
-Stundent 1. 
+Student 1. 
 
 Could be you here!
