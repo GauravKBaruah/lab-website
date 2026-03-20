@@ -28,7 +28,7 @@ latest_posts:
   .profile {
     float: none !important;
     width: 100% !important;
-    max-width: 600px; /* Adjust this to make the photo bigger or smaller */
+    max-width: 800px; /* Adjust this to make the photo bigger or smaller */
     margin: 0 auto 2em auto !important;
     display: block !important;
   }
