@@ -10,7 +10,8 @@ contact_note: >
   Best way to reach the group is through email!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   We are a newly founded lab based at Center for Ecological Sciences, Indian Institute of Science, India.  
-  We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We also try to validate our theory-frameworks with empirical data, microcosm experiments, and field work based in India.
+  We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We also try to validate our theory frameworks with empirical data, microcosm experiments, and field work based in India. 
+  We are committed to transparent, honest, reproducible, and open science. Our group aims to provide students with a supportive and open environment that fosters their individual learning and growth.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
