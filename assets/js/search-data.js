@@ -497,14 +497,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/gaurav-baruah-77845439a/", "_blank");
+          window.open("https://www.linkedin.com/in//gaurav-baruah-77845439a/", "_blank");
         },
       },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://bsky.app/profile/gauravbaruah.bsky.social", "_blank");
+          window.open("gauravbaruah.bsky.social", "_blank");
         },
       },{
         id: 'social-work',
