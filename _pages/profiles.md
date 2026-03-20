@@ -20,7 +20,7 @@ profiles:
 
       
   - align: left
-    image: prof_pic.jpg
+    image: cat1.png
     content: student1.md
     image_circular: false # crops the image to make it circular
     more_info: >
