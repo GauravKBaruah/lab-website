@@ -4,8 +4,8 @@
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: you@example.com # your email address
 github_username: gauravkbaruah
-linkedin_username: https://www.linkedin.com/in/gaurav-baruah-77845439a/
-bluesky_url: https://bsky.app/profile/gauravbaruah.bsky.social
+linkedin_username: /gaurav-baruah-77845439a/
+bluesky_url: gauravbaruah.bsky.social
 work_url: https://ces.iisc.ac.in/ # Inspire HEP author ID
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: NUBQBAsAAAAJ # your Google Scholar ID
