@@ -34,4 +34,7 @@ latest_posts:
   }
 </style>
 
-We are a newly founded lab based at Center for Ecological Sciences, Indian Institute of Science, India. We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We also try to validate our modelling approaches with empirical data, microcosm experiments, and field work based in India.
+
+We are a newly founded lab based at Center for Ecological Sciences, Indian Institute of Science, India.  
+We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We try to validate our theoretical frameworks with empirical data, microcosm experiments, and fieldwork in India. 
+We are committed to transparent, honest, reproducible, and open science. We aim to provide a supportive, open environment that fosters individual learning and growth.
