@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, <a href='https://iisc.ac.in/'> Indian Institute of Science.
 
