@@ -6,7 +6,7 @@ subtitle: <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, 
 
 profile:
   align: center
-  image: web3.jpg
+  image: web4.png
   image_circular: true
   more_info: >
     <p>Center for Ecological Sciences,</p>
