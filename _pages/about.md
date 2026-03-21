@@ -6,7 +6,7 @@ subtitle: <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, 
 
 profile:
   align: center
-  image: web1.jpg
+  image: web3.jpg
   image_circular: true
   more_info: >
     <p>Center for Ecological Sciences,</p>
@@ -37,4 +37,4 @@ latest_posts:
 
 We are a newly founded lab based at Center for Ecological Sciences, Indian Institute of Science, India.  
 We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We try to validate our theoretical frameworks with empirical data, microcosm experiments, and fieldwork in India. 
-We are committed to transparent, honest, reproducible, and open science. We aim to provide a supportive, open environment that fosters individual learning and growth.
+
