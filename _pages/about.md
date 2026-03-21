@@ -22,15 +22,28 @@ announcements:
 latest_posts:
   enabled: false
 ---
+-
 
 <style>
-  .profile img {
-    width: 250px !important;       /* Adjust this for how wide you want the oval */
-    height: 330px !important;      /* Adjust this for how tall you want the oval */
-    object-fit: cover !important;  /* Prevents squishing */
-    border-radius: 50% !important; /* Creates the beautiful elliptical shape */
+  /* This creates a large, professional banner layout */
+  .hero-banner {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .hero-banner img {
+    width: 100%; /* Forces the image to fill the width of the webpage */
+    max-height: 450px; /* Prevents the image from taking up the entire screen vertically */
+    object-fit: cover; /* Crops the image beautifully without stretching or squishing */
+    border-radius: 12px; /* Gives the banner nice, modern rounded corners */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Adds a subtle shadow to make it pop */
   }
 </style>
+
+<div class="hero-banner">
+  <img src="{{ '/assets/img/web6.png' | relative_url }}" alt="Lab Banner">
+</div>
 
 We are a newly founded lab based at Center for Ecological Sciences, Indian Institute of Science, India.  
 We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We try to validate our theoretical frameworks with empirical data, microcosm experiments, and fieldwork in India. 
