@@ -6,7 +6,7 @@ subtitle: <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, 
 
 profile:
   align: center
-  image: web4.png
+  image: web6.png
   image_circular: true
   more_info: >
     <p>Center for Ecological Sciences,</p>
@@ -24,8 +24,27 @@ latest_posts:
 ---
 
 <style>
-  /* 1. This centers the invisible box holding your profile picture */
+
+
+  /* This makes the profile picture area wide and centered */
+
   .profile {
+
+    float: none !important;
+
+    width: 100% !important;
+
+    max-width: 600px; /* Adjust this to make the photo bigger or smaller */
+
+    margin: 0 auto 2em auto !important;
+
+    display: block !important;
+
+  }
+
+
+  /* 1. This centers the invisible box holding your profile picture */
+/*  .profile {
     float: none !important;
     width: 100% !important;
     text-align: center !important;
@@ -34,14 +53,14 @@ latest_posts:
   }
 
   /* 2. This forces the actual image into a perfect, centered circle */
-  .profile img {
+ /* .profile img {
     width: 500px !important;  /* Adjust this to make the photo bigger or smaller */
-    height: 500px !important; /* MUST be exactly the same number as the width! */
-    object-fit: cover !important; /* Crops the rectangle perfectly without stretching */
-    border-radius: 60% !important; /* Makes it a perfect circle */
-    margin: 0 auto !important; /* Forces the image to the middle */
-    display: block !important;
-  }
+ /*   height: 500px !important; /* MUST be exactly the same number as the width! */
+/*    object-fit: cover !important; /* Crops the rectangle perfectly without stretching */
+/*    border-radius: 50% !important; /* Makes it a perfect circle */
+ /*   margin: 0 auto !important; /* Forces the image to the middle */
+ /*   display: block !important; */
+ /* }*/
 </style>
 
 
