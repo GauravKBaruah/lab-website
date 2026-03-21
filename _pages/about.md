@@ -35,10 +35,10 @@ latest_posts:
 
   /* 2. This forces the actual image into a perfect, centered circle */
   .profile img {
-    width: 300px !important;  /* Adjust this to make the photo bigger or smaller */
-    height: 300px !important; /* MUST be exactly the same number as the width! */
+    width: 500px !important;  /* Adjust this to make the photo bigger or smaller */
+    height: 500px !important; /* MUST be exactly the same number as the width! */
     object-fit: cover !important; /* Crops the rectangle perfectly without stretching */
-    border-radius: 50% !important; /* Makes it a perfect circle */
+    border-radius: 60% !important; /* Makes it a perfect circle */
     margin: 0 auto !important; /* Forces the image to the middle */
     display: block !important;
   }
