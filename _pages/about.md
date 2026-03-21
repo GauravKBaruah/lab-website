@@ -24,12 +24,22 @@ latest_posts:
 ---
 
 <style>
-  /* This makes the profile picture area wide and centered */
+  /* 1. This centers the invisible box holding your profile picture */
   .profile {
     float: none !important;
     width: 100% !important;
-    max-width: 600px; /* Adjust this to make the photo bigger or smaller */
+    text-align: center !important;
     margin: 0 auto 2em auto !important;
+    display: block !important;
+  }
+
+  /* 2. This forces the actual image into a perfect, centered circle */
+  .profile img {
+    width: 300px !important;  /* Adjust this to make the photo bigger or smaller */
+    height: 300px !important; /* MUST be exactly the same number as the width! */
+    object-fit: cover !important; /* Crops the rectangle perfectly without stretching */
+    border-radius: 50% !important; /* Makes it a perfect circle */
+    margin: 0 auto !important; /* Forces the image to the middle */
     display: block !important;
   }
 </style>
