@@ -32,7 +32,7 @@ latest_posts:
 </style>
 
 <div class="hero-banner">
-  <img src="{{ '/assets/img/web6.png' | relative_url }}" alt="Lab Banner">
+  <img src="{{ '/assets/img/web7.png' | relative_url }}" alt="Lab Banner">
 </div>
 
 We are a newly founded lab based at Center for Ecological Sciences, Indian Institute of Science, India.  
