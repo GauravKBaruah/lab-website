@@ -13,7 +13,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
--
 
 <style>
   /* This creates a large, professional banner layout */
