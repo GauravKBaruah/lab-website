@@ -7,7 +7,7 @@ subtitle: <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, 
 profile:
   align: center
   image: web6.png
-  image_circular: true
+  image_circular: false
   more_info: >
     <p>Center for Ecological Sciences,</p>
     <p>Indian Institute of Science,</p>
@@ -24,22 +24,11 @@ latest_posts:
 ---
 
 <style>
-  /* 1. Centers the profile container */
-  .profile {
-    float: none !important;
-    display: flex !important;
-    justify-content: center !important;
-    width: 100% !important;
-    margin-bottom: 2rem !important;
-  }
-
-  /* 2. Shapes the image into a vertical ellipse (oval) */
   .profile img {
-    width: 250px !important;       /* How wide the oval is */
-    height: 330px !important;      /* How tall the oval is */
-    max-width: 100% !important;
-    object-fit: cover !important;  /* Prevents the image from stretching/squishing */
-    border-radius: 50% !important; /* Curves it into a perfect ellipse */
+    width: 250px !important;       /* Adjust this for how wide you want the oval */
+    height: 330px !important;      /* Adjust this for how tall you want the oval */
+    object-fit: cover !important;  /* Prevents squishing */
+    border-radius: 50% !important; /* Creates the beautiful elliptical shape */
   }
 </style>
 
