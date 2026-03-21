@@ -4,15 +4,6 @@ title: About
 permalink: /
 subtitle: <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, <a href='https://iisc.ac.in/'> Indian Institute of Science.
 
-profile:
-  align: center
-  image: web6.png
-  image_circular: false
-  more_info: >
-    <p>Center for Ecological Sciences,</p>
-    <p>Indian Institute of Science,</p>
-    <p>Bengaluru, India</p>
-
 selected_papers: false
 social: true
 
