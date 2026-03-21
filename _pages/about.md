@@ -24,45 +24,24 @@ latest_posts:
 ---
 
 <style>
-
-
-  /* This makes the profile picture area wide and centered */
-
+  /* 1. Centers the profile container */
   .profile {
-
     float: none !important;
-
+    display: flex !important;
+    justify-content: center !important;
     width: 100% !important;
-
-    max-width: 600px; /* Adjust this to make the photo bigger or smaller */
-
-    margin: 0 auto 2em auto !important;
-
-    display: block !important;
-
+    margin-bottom: 2rem !important;
   }
 
-
-  /* 1. This centers the invisible box holding your profile picture */
-/*  .profile {
-    float: none !important;
-    width: 100% !important;
-    text-align: center !important;
-    margin: 0 auto 2em auto !important;
-    display: block !important;
+  /* 2. Shapes the image into a vertical ellipse (oval) */
+  .profile img {
+    width: 250px !important;       /* How wide the oval is */
+    height: 330px !important;      /* How tall the oval is */
+    max-width: 100% !important;
+    object-fit: cover !important;  /* Prevents the image from stretching/squishing */
+    border-radius: 50% !important; /* Curves it into a perfect ellipse */
   }
-
-  /* 2. This forces the actual image into a perfect, centered circle */
- /* .profile img {
-    width: 500px !important;  /* Adjust this to make the photo bigger or smaller */
- /*   height: 500px !important; /* MUST be exactly the same number as the width! */
-/*    object-fit: cover !important; /* Crops the rectangle perfectly without stretching */
-/*    border-radius: 50% !important; /* Makes it a perfect circle */
- /*   margin: 0 auto !important; /* Forces the image to the middle */
- /*   display: block !important; */
- /* }*/
 </style>
-
 
 We are a newly founded lab based at Center for Ecological Sciences, Indian Institute of Science, India.  
 We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We try to validate our theoretical frameworks with empirical data, microcosm experiments, and fieldwork in India. 
