@@ -279,7 +279,7 @@ ninja.data = [{
         
           title: "a post with code",
         
-        description: "an example of a blog post with some code",
+        description: "R code",
         section: "Posts",
         handler: () => {
           
