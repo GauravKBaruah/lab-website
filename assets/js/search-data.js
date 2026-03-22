@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-website/people/";
           },
-        },{id: "post-new-lab-and-new-start-at-iisc",
+        },{id: "post-new-start-at-iisc-and-some-general-thoughts-on-the-application-process",
         
-          title: "New lab and new start at IISc",
+          title: "New start at IISc and some general thoughts on the application process",
         
         description: "Just a general thought on the process, and what I have applied",
         section: "Posts",
