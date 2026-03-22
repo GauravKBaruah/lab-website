@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "New start at IISc and some general thoughts on the application process",
         
-        description: "Just a general thought on the process, and what I have applied",
+        description: "",
         section: "Posts",
         handler: () => {
           
