@@ -5,7 +5,7 @@ title: Blog
 nav: true
 nav_order: 1
 pagination:
-  enabled: true
+  enabled: false
   collection: posts
   permalink: /page/:num/
   per_page: 5
@@ -109,7 +109,7 @@ pagination:
       {% assign postlist = site.posts %}
     {% endif %}
 
-    {% for post in postlist %}
+    {% for post in postlist limit: 2 %}
 
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
