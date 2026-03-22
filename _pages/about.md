@@ -35,6 +35,6 @@ latest_posts:
   <img src="{{ '/assets/img/web9.png' | relative_url }}" alt="Lab Banner">
 </div>
 
-We are a newly founded lab based at Center for Ecological Sciences, Indian Institute of Science, India.  
+We are a newly founded lab based at <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, <a href='https://iisc.ac.in/'> Indian Institute of Science, Bangaluru, India.  
 We develop theory and work on the interface of theoretical ecology and evolutionary dynamics. We try to validate our theoretical frameworks with empirical data, microcosm experiments, and fieldwork in India. 
 
