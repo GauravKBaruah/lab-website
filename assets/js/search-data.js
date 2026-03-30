@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab-website/people/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-new-start-at-iisc-and-some-general-thoughts-on-the-application-process",
+        
+          title: "New start at IISc and some general thoughts on the application process",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/lab-website/blog/2026/plotly/";
+          
+        },
+      },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
