@@ -29,6 +29,11 @@ latest_posts:
     border-radius: 12px; /* Gives the banner nice, modern rounded corners */
     box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Adds a subtle shadow to make it pop */
   }
+
+  /* Invert the banner colors automatically in Light Mode */
+  html[data-theme='light'] .hero-banner img {
+    filter: invert(1) hue-rotate(180deg) contrast(1.2);
+  } 
 </style>
 
 <div class="hero-banner">
