@@ -14,8 +14,8 @@ profiles:
     content: about_GB.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Centre for Ecological Sciences</p>
+      <p>Third floor, Biological Sciences Building, Indian Institute of Science</p>
+      <p>Bangalore 560 012, India</p>
 
 ---
