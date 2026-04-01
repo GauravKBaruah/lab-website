@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-01'
 papers:
   NUBQBAsAAAAJ:2osOgNQ5qMEC:
     citations: 42
@@ -18,7 +18,7 @@ papers:
     title: Effect of habitat quality and phenotypic variation on abundance- and trait-based early warning signals of population collapses
     year: '2021'
   NUBQBAsAAAAJ:HDshCWvjkbEC:
-    citations: 7
+    citations: 8
     title: "Stability, resilience and eco\u2010evolutionary feedbacks of mutualistic networks to rising temperature"
     year: '2024'
   NUBQBAsAAAAJ:NMxIlDl6LWMC:
@@ -30,7 +30,7 @@ papers:
     title: Predicting recoverability of collapsed food webs through perturbation and dimension reduction
     year: '2025'
   NUBQBAsAAAAJ:UeHWp8X0CEIC:
-    citations: 116
+    citations: 117
     title: 'Tundra Trait Team: A database of plant traits spanning the tundra biome'
     year: '2018'
   NUBQBAsAAAAJ:UebtZRa9Y70C:
@@ -38,7 +38,7 @@ papers:
     title: Effect of time-series length and resolution on abundance- and trait-based early warning signals of population declines
     year: '2020'
   NUBQBAsAAAAJ:Zph67rFs4hoC:
-    citations: 25
+    citations: 26
     title: The impact of individual variation on abrupt collapses in mutualistic networks
     year: '2021'
   NUBQBAsAAAAJ:_FxGoFyzp5QC:
@@ -70,7 +70,7 @@ papers:
     title: Adaptive rewiring and temperature tolerance shape the architecture of plant-pollinator networks globally
     year: '2025'
   NUBQBAsAAAAJ:mB3voiENLucC:
-    citations: 5
+    citations: 6
     title: Plant metabolites modulate social networks and lifespan in a sawfly
     year: '2024'
   NUBQBAsAAAAJ:maZDTaKrznsC:
@@ -82,7 +82,7 @@ papers:
     title: 'Transitions and its indicators in mutualistic meta-networks: effects of network topology, size of metacommunities and species dispersal'
     year: '2023'
   NUBQBAsAAAAJ:u-x6o8ySG0sC:
-    citations: 68
+    citations: 70
     title: Community and species-specific responses of plant traits to 23 years of experimental warming across subarctic tundra plant communities
     year: '2017'
   NUBQBAsAAAAJ:u5HHmVD_uO8C:
