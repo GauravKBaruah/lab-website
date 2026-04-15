@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-15'
 papers:
   NUBQBAsAAAAJ:2osOgNQ5qMEC:
     citations: 42
@@ -34,7 +34,7 @@ papers:
     title: 'Tundra Trait Team: A database of plant traits spanning the tundra biome'
     year: '2018'
   NUBQBAsAAAAJ:UebtZRa9Y70C:
-    citations: 40
+    citations: 41
     title: Effect of time-series length and resolution on abundance- and trait-based early warning signals of population declines
     year: '2020'
   NUBQBAsAAAAJ:Zph67rFs4hoC:
