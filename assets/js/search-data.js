@@ -302,9 +302,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-eco-evolutionary-dynamics-of-ecological-networks",
+          title: 'Eco-evolutionary dynamics of ecological networks',
+          description: "Understanding how species embedded in complex networks respond to environmental change.",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/1_project/";
             },},{id: "projects-project-2",
