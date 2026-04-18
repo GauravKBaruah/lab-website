@@ -2,7 +2,7 @@
 layout: page
 title:  Controlling complex ecological communities
 description: controlling resilience
-img: assets/img/9.jpg
+img: assets/img/control.jpg
 importance: 2
 category: work
 related_publications: true
