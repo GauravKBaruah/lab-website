@@ -339,7 +339,7 @@ ninja.data = [{
               window.location.href = "/lab-website/projects/7_project/";
             },},{id: "projects-controlling-complex-ecological-communities",
           title: 'Controlling complex ecological communities',
-          description: "an other project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/8_project/";
             },},{id: "projects-project-9",
