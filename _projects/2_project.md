@@ -5,7 +5,7 @@ description: Understanding adaptive interaction dynamics
 img: assets/img/project2a.jpg # This is the thumbnail for the main Research page
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 Ecological networks are not fixed. Species can rewire interactions, shift partners, change their trophic position, or move across landscapes and encounter new communities. Our group is interested in how dispersal, habitat configuration, environmental gradients, and intraspecific trait variation shape this rewiring process and, in turn, modify the architecture of such networks.
@@ -28,4 +28,4 @@ In plant-pollinator systems, for example, dispersal and environmental heterogene
 
 ### Selected References
 
-Our recent work explores these dynamics in greater detail. You can find more details about these frameworks in our previous studies {% cite baruah_adaptive_2025 %}.
+Our recent work explores these dynamics in greater detail. You can find more details about these frameworks in our previous studies {%cite baruah_adaptive_2025 %}.
