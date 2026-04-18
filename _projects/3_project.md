@@ -2,7 +2,7 @@
 layout: page
 title: "From genes to ecological networks: evolvability, and species coexistence"
 description: How genetic variation and complex interactions shape the capacity of species to evolve.
-img: assets/img/7.jpg
+img: assets/img/network1.jpg
 importance: 3
 category: work
 ---
