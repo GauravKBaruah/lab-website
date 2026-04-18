@@ -16,11 +16,16 @@ In plant-pollinator systems, for example, dispersal and environmental heterogene
 
 ### Visualizing Network Rewiring
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project2.png" title="Network Rewiring" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Over eco-evolutionary time species in a network adaptively rewire themselves in the phenological space shown above.
 </div>
+
+
+### Selected References
+
+Our recent work explores these dynamics in greater detail. You can find more details about these frameworks in our previous studies {% cite baruah_adaptive_2025 %}.
