@@ -339,7 +339,7 @@ ninja.data = [{
               window.location.href = "/lab-website/projects/7_project/";
             },},{id: "projects-controlling-complex-ecological-communities",
           title: 'Controlling complex ecological communities',
-          description: "",
+          description: "controlling resilience",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/8_project/";
             },},{id: "projects-project-9",
