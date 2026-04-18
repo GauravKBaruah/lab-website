@@ -332,8 +332,8 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
+            },},{id: "projects-resilience-tipping-points-hysteresis-in-ecological-networks",
+          title: 'Resilience, tipping points, hysteresis in ecological networks',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/7_project/";
