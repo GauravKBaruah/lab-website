@@ -18,20 +18,6 @@ We asks questions such as:
 
 Our approach combines dynamical systems theory, quantitative genetics, and network ecology to develop general frameworks for mutualistic networks, trophic food webs, and other multispecies communities.
 
----
-
-### Visualizing the Dynamics
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/your-image.jpg" title="Network Dynamics" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can write a caption for your image right here explaining the network model.
-</div>
-
----
 
 ### Selected References
 
