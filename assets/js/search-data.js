@@ -322,11 +322,6 @@ ninja.data = [{
           description: "conflict of mitochondria and nuclear genes",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-website/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
@@ -342,11 +337,6 @@ ninja.data = [{
           description: "controlling resilience",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-website/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
