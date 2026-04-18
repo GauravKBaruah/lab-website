@@ -8,12 +8,10 @@ category: work
 related_publications: true
 ---
 
-A major focus of the group is to understand how species embedded in complex networks respond to environmental change. Species do not respond in isolation. Their dynamics depend on who they interact with, how strongly they interact, and whether the traits underlying those interactions can evolve. 
-
-We study how ecological processes and community structure interact with evolutionary processes such as adaptation, trait shifts, and changes in genetic variance.
+A major focus of the group is to understand how species embedded in complex networks respond to environmental change. Species do not respond in isolation. Their dynamics depend on who they interact with, how strongly they interact, and whether the traits underlying those interactions can evolve. We study how ecological processes and community structure interact with evolutionary processes such as adaptation, trait shifts, and changes in genetic variance.
 
 ### Core Questions
-This theme asks questions such as: 
+We asks questions such as: 
 * How do species' roles in networks influence their responses to warming or disturbance? 
 * Do generalists and specialists differ in their adaptive capacity? 
 * How do changes in traits, such as phenology, body size, or foraging traits, alter network structure and community stability over time? 
@@ -37,4 +35,4 @@ Our approach combines dynamical systems theory, quantitative genetics, and netwo
 
 ### Selected References
 
-Our recent work explores these dynamics in greater detail. For example, we found that network structure significantly impacts trait evolution {% cite einstein1950meaning %}. You can find more details about these frameworks in our previous studies {% cite einstein1950meaning %}.
+Our recent work explores these dynamics in greater detail. For example, we found that network structure significantly impacts trait evolution and stability {% cite baruah_stability_2024 %}. You can find more details about these frameworks in our previous studies {% cite baruah_evolution_2025 %} and {%cite baruah_impact_2022 %}.
