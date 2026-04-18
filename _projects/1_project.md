@@ -2,7 +2,7 @@
 layout: page
 title: Eco-evolutionary dynamics of ecological networks
 description: Understanding how species embedded in complex networks respond to environmental change.
-img: assets/img/project1.png # Change this to the name of your actual image in the assets/img folder
+img: assets/img/ecoevo.png # Change this to the name of your actual image in the assets/img folder
 importance: 1
 category: work
 related_publications: true
