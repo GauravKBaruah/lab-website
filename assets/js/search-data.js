@@ -312,8 +312,8 @@ ninja.data = [{
           description: "Understanding adaptive interaction dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/2_project/";
-            },},{id: "projects-from-genes-to-complex-ecological-networks-evolvability-trait-variation-and-species-coexistence",
-          title: 'From genes to complex ecological networks: evolvability, trait variation, and species coexistence',
+            },},{id: "projects-from-genes-to-ecological-networks-evolvability-and-species-coexistence",
+          title: 'From genes to ecological networks: evolvability, and species coexistence',
           description: "How genetic variation and complex interactions shape the capacity of species to evolve.",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/3_project/";
