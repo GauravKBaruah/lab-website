@@ -2,7 +2,7 @@
 layout: page
 title:  Resilience, tipping points, hysteresis in ecological networks
 description: understanding resilience
-img: assets/img/4.jpg
+img: assets/img/resilience.jpg
 importance: 1
 category: work
 related_publications: true
