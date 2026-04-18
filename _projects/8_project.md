@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Controlling complex ecological communities
-description: an other project with a background image and giscus comments
+description: 
 img: assets/img/9.jpg
 importance: 2
 category: work
