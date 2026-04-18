@@ -307,9 +307,9 @@ ninja.data = [{
           description: "Understanding how species embedded in complex networks respond to environmental change.",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-rewiring-and-the-architecture-of-species-interactions",
+          title: 'Rewiring, and the architecture of species interactions',
+          description: "Understanding adaptive interaction dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
