@@ -322,11 +322,6 @@ ninja.data = [{
           description: "conflict of mitochondria and nuclear genes",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/4_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/lab-website/projects/6_project/";
             },},{id: "projects-resilience-tipping-points-hysteresis-in-ecological-networks",
           title: 'Resilience, tipping points, hysteresis in ecological networks',
           description: "understanding resilience",
