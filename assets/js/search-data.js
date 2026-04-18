@@ -317,9 +317,9 @@ ninja.data = [{
           description: "How genetic variation and complex interactions shape the capacity of species to evolve.",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-genomic-conflict-speciation-dynamics-and-evolutionary-timescales",
+          title: 'Genomic conflict, speciation dynamics and evolutionary timescales',
+          description: "conflict of mitochondria and nuclear genes",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/4_project/";
             },},{id: "projects-project-5",
