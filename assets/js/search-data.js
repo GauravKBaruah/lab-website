@@ -334,7 +334,7 @@ ninja.data = [{
               window.location.href = "/lab-website/projects/6_project/";
             },},{id: "projects-resilience-tipping-points-hysteresis-in-ecological-networks",
           title: 'Resilience, tipping points, hysteresis in ecological networks',
-          description: "with background image",
+          description: "understanding resilience",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/7_project/";
             },},{id: "projects-controlling-complex-ecological-communities",
