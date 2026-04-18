@@ -312,9 +312,9 @@ ninja.data = [{
           description: "Understanding adaptive interaction dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/3_project/";
             },},{id: "projects-project-4",
