@@ -2,7 +2,7 @@
 layout: page
 title: Rewiring, and the architecture of species interactions
 description: Understanding adaptive interaction dynamics
-img: assets/img/7.jpg # This is the thumbnail for the main Research page
+img: assets/img/rewiring.jpg # This is the thumbnail for the main Research page
 importance: 2
 category: work
 related_publications: true
