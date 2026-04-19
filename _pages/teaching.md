@@ -1,15 +1,17 @@
 ---
 layout: page
-permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description: Information about upcoming courses and teaching materials.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+While I am currently focused on establishing the Eco-Evo Dynamical Resilience Lab and our core research projects, teaching and mentorship are central to our long-term mission. 
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+In the future, I plan to offer courses covering topics such as:
 
-{% include courses.liquid %}
+* **Eco-Evolutionary Dynamics:** Exploring how ecological and evolutionary processes interact on contemporary timescales.
+* **Models in Ecology and Evolution:** A quantitative approach to understanding complex biological systems using mathematical and computational frameworks.
+
+Course materials, syllabi, and teaching schedules will be posted here once they become available. Please check back later for updates!
