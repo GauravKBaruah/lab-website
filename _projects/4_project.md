@@ -4,7 +4,7 @@ title: Genomic conflict, speciation dynamics and evolutionary timescales
 description: conflict of mitochondria and nuclear genes
 img: assets/img/mito.jpg
 importance: 3
-category: fun
+category: work
 ---
 Beyond contemporary ecological networks, our group is also interested in broader topics on evolutionary dynamics, including speciation, extinction, genomic conflict, and the origins of reproductive isolation. One area of interest is how conflict between different levels of biological organization, such as mito-nuclear interactions, epistatic interactions (gene-gene interactions/substitutions) shapes species divergence and hybridisation. More broadly, we are interested in linking ecological and evolutionary processes across timescales, from short-term adaptive dynamics to the emergence of new species or the loss of lineages.
 
