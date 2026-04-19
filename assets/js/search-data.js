@@ -143,17 +143,6 @@ ninja.data = [{
             window.location.href = "/lab-website/blog/2015/math/";
           
         },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "R code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/lab-website/blog/2015/code/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
