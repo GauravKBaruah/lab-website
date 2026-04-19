@@ -123,11 +123,6 @@ ninja.data = [{
           description: "controlling resilience",
           section: "Projects",handler: () => {
               window.location.href = "/lab-website/projects/8_project/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/lab-website/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
