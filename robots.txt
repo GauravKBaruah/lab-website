@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gauravkbaruah.github.io/lab-website/sitemap.xml
+Sitemap: https://gauravkbaruah.github.io/sitemap.xml
