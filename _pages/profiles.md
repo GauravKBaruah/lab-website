@@ -24,7 +24,7 @@ profiles:
     image_circular: true 
     more_info: >
       <p>Bachelor Student </p>
-
+      <p> Bielefeld University</p>
 
   # 3. Lab Member
   - align: right
