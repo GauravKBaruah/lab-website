@@ -32,6 +32,6 @@ profiles:
     content: sarah.md
     image_circular: true 
     more_info: >
-      <p>Sarah, BSc student</p>
+      <p>Sarah Antl, BSc student</p>
       
 ---
