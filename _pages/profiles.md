@@ -23,7 +23,7 @@ profiles:
     content: philipp.md
     image_circular: true 
     more_info: >
-      <p>Bachelor Student </p>
+      <p>Philipp Sewing, BSc student </p>
       <p> Bielefeld University</p>
 
   # 3. Lab Member
@@ -32,6 +32,6 @@ profiles:
     content: sarah.md
     image_circular: true 
     more_info: >
-      <p>Bachelor student</p>
+      <p>Sarah, BSc student</p>
       
 ---
