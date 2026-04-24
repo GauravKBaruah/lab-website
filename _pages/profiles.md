@@ -2,20 +2,36 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the lab or group
+description: Members of the Eco-Evo Dynamical Resilience Lab
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
+  # 1. Gaurav's Profile
   - align: right
     image: GB.jpg
     content: about_GB.md
-    image_circular: true # crops the image to make it circular
+    image_circular: true 
     more_info: >
       <p>Centre for Ecological Sciences</p>
       <p>Third floor, Biological Sciences Building, Indian Institute of Science</p>
       <p>Bangalore 560 012, India</p>
 
+  # 2. First New Lab Member
+  - align: left
+    image: philipp.jpg
+    content: philipp.md
+    image_circular: true 
+    more_info: >
+      <p>Bachelor Student </p>
+      <p>email@example.com</p>
+
+  # 3. Second New Lab Member
+  - align: right
+    image: sarah.jpg
+    content: sarah.md
+    image_circular: true 
+    more_info: >
+      <p>Bachelor student</p>
+      <p>email@example.com</p>
 ---
