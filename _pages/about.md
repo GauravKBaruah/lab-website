@@ -37,7 +37,7 @@ latest_posts:
 </style>
 
 <div class="hero-banner">
-  <img src="{{ '/assets/img/web9.png' | relative_url }}" alt="Lab Banner">
+  <img src="{{ '/assets/img/hpage.png' | relative_url }}" alt="Lab Banner">
 </div>
 
 We are a newly founded lab based at <a href='https://ces.iisc.ac.in/'>Center for Ecological Sciences</a>, <a href='https://iisc.ac.in/'> Indian Institute of Science </a>, Bangaluru, India.  
