@@ -24,7 +24,7 @@ latest_posts:
   
   .hero-banner img {
     width: 100%; /* Forces the image to fill the width of the webpage */
-    max-height: 450px; /* Prevents the image from taking up the entire screen vertically */
+    max-height: 550px; /* Prevents the image from taking up the entire screen vertically */
     object-fit: cover; /* Crops the image beautifully without stretching or squishing */
     border-radius: 12px; /* Gives the banner nice, modern rounded corners */
     box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Adds a subtle shadow to make it pop */
@@ -32,7 +32,7 @@ latest_posts:
 
   /* Invert the banner colors automatically in Light Mode */
   html[data-theme='light'] .hero-banner img {
-    filter: invert(1) hue-rotate(180deg) contrast(1.2);
+    filter: invert(1) hue-rotate(180deg) contrast(0.5);
   } 
 </style>
 
