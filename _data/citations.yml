@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-04-27'
 papers:
   NUBQBAsAAAAJ:2osOgNQ5qMEC:
     citations: 42
@@ -18,7 +18,7 @@ papers:
     title: Effect of habitat quality and phenotypic variation on abundance- and trait-based early warning signals of population collapses
     year: '2021'
   NUBQBAsAAAAJ:HDshCWvjkbEC:
-    citations: 7
+    citations: 8
     title: "Stability, resilience and eco\u2010evolutionary feedbacks of mutualistic networks to rising temperature"
     year: '2024'
   NUBQBAsAAAAJ:NMxIlDl6LWMC:
@@ -38,7 +38,7 @@ papers:
     title: Effect of time-series length and resolution on abundance- and trait-based early warning signals of population declines
     year: '2020'
   NUBQBAsAAAAJ:Zph67rFs4hoC:
-    citations: 25
+    citations: 26
     title: The impact of individual variation on abrupt collapses in mutualistic networks
     year: '2021'
   NUBQBAsAAAAJ:_FxGoFyzp5QC:
@@ -70,7 +70,7 @@ papers:
     title: Adaptive rewiring and temperature tolerance shape the architecture of plant-pollinator networks globally
     year: '2025'
   NUBQBAsAAAAJ:mB3voiENLucC:
-    citations: 7
+    citations: 8
     title: Plant metabolites modulate social networks and lifespan in a sawfly
     year: '2024'
   NUBQBAsAAAAJ:maZDTaKrznsC:
