@@ -33,5 +33,14 @@ profiles:
     image_circular: true 
     more_info: >
       <p>Sarah Antl, BSc student</p>
+
+
+# 4. Lab Member
+  - align: left
+    image: leo.jpg
+    content: leo.md
+    image_circular: true 
+    more_info: >
+      <p>Leopold Mürtz, BSc student</p>
       
 ---
