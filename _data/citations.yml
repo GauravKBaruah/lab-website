@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-11'
 papers:
   NUBQBAsAAAAJ:2osOgNQ5qMEC:
     citations: 42
@@ -30,11 +30,11 @@ papers:
     title: Predicting recoverability of collapsed food webs through perturbation and dimension reduction
     year: '2025'
   NUBQBAsAAAAJ:UeHWp8X0CEIC:
-    citations: 118
+    citations: 119
     title: 'Tundra Trait Team: A database of plant traits spanning the tundra biome'
     year: '2018'
   NUBQBAsAAAAJ:UebtZRa9Y70C:
-    citations: 43
+    citations: 42
     title: Effect of time-series length and resolution on abundance- and trait-based early warning signals of population declines
     year: '2020'
   NUBQBAsAAAAJ:Zph67rFs4hoC:
@@ -58,11 +58,11 @@ papers:
     title: Behavioral variation affects persistence of an experimental food-chain
     year: '2025'
   NUBQBAsAAAAJ:d1gkVwhDpl0C:
-    citations: 9
+    citations: 10
     title: Impacts of seven years of experimental warming and nutrient addition on neighbourhood species interactions and community structure in two contrasting alpine plant communities
     year: '2018'
   NUBQBAsAAAAJ:e5wmG9Sq2KIC:
-    citations: 6
+    citations: 7
     title: "Reviving collapsed plant\u2013pollinator networks from a single species"
     year: '2024'
   NUBQBAsAAAAJ:hMod-77fHWUC:
