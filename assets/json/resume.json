@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gaurah Baruah",
+    "label": "Assistant Prof.",
     "image": "",
-    "email": "einstein@example.com",
+    "email": "gbaruahecoevo@gmail.com",
     "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "CES,IISC",
+      "postalCode": "IISc",
+      "city": "Bangalore",
+      "countryCode": "Ind",
+      "region": "Bangaluru"
     },
     "profiles": []
   },
