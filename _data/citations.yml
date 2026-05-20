@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-20'
 papers:
   NUBQBAsAAAAJ:2osOgNQ5qMEC:
     citations: 42
@@ -10,7 +10,7 @@ papers:
     title: Community structure determines the predictability of population collapse
     year: '2022'
   NUBQBAsAAAAJ:5nxA0vEk-isC:
-    citations: 91
+    citations: 94
     title: Higher order interactions and species coexistence
     year: '2020'
   NUBQBAsAAAAJ:8k81kl-MbHgC:
@@ -30,11 +30,11 @@ papers:
     title: Predicting recoverability of collapsed food webs through perturbation and dimension reduction
     year: '2025'
   NUBQBAsAAAAJ:UeHWp8X0CEIC:
-    citations: 119
+    citations: 120
     title: 'Tundra Trait Team: A database of plant traits spanning the tundra biome'
     year: '2018'
   NUBQBAsAAAAJ:UebtZRa9Y70C:
-    citations: 42
+    citations: 43
     title: Effect of time-series length and resolution on abundance- and trait-based early warning signals of population declines
     year: '2020'
   NUBQBAsAAAAJ:Zph67rFs4hoC:
