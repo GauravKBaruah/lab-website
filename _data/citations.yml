@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-07-01'
 papers:
   NUBQBAsAAAAJ:2osOgNQ5qMEC:
     citations: 42
     title: When do shifts in trait dynamics precede population declines?
     year: '2019'
   NUBQBAsAAAAJ:4DMP91E08xMC:
-    citations: 16
+    citations: 17
     title: Community structure determines the predictability of population collapse
     year: '2022'
   NUBQBAsAAAAJ:5nxA0vEk-isC:
-    citations: 94
+    citations: 95
     title: Higher order interactions and species coexistence
     year: '2020'
   NUBQBAsAAAAJ:8k81kl-MbHgC:
@@ -18,7 +18,7 @@ papers:
     title: Effect of habitat quality and phenotypic variation on abundance- and trait-based early warning signals of population collapses
     year: '2021'
   NUBQBAsAAAAJ:HDshCWvjkbEC:
-    citations: 8
+    citations: 9
     title: "Stability, resilience and eco\u2010evolutionary feedbacks of mutualistic networks to rising temperature"
     year: '2024'
   NUBQBAsAAAAJ:NMxIlDl6LWMC:
@@ -26,23 +26,23 @@ papers:
     title: Intraspecific variation promotes trait clustering and species coexistence through higher order interactions
     year: '2018'
   NUBQBAsAAAAJ:TQgYirikUcIC:
-    citations: 1
+    citations: 2
     title: Predicting recoverability of collapsed food webs through perturbation and dimension reduction
     year: '2025'
   NUBQBAsAAAAJ:UeHWp8X0CEIC:
-    citations: 120
+    citations: 123
     title: 'Tundra Trait Team: A database of plant traits spanning the tundra biome'
     year: '2018'
   NUBQBAsAAAAJ:UebtZRa9Y70C:
-    citations: 43
+    citations: 45
     title: Effect of time-series length and resolution on abundance- and trait-based early warning signals of population declines
     year: '2020'
   NUBQBAsAAAAJ:Zph67rFs4hoC:
-    citations: 26
+    citations: 27
     title: The impact of individual variation on abrupt collapses in mutualistic networks
     year: '2021'
   NUBQBAsAAAAJ:_FxGoFyzp5QC:
-    citations: 31
+    citations: 33
     title: Eco-evolutionary processes underlying early warning signals of population declines
     year: '2019'
   NUBQBAsAAAAJ:_Qo2XoVZTnwC:
@@ -78,11 +78,11 @@ papers:
     title: "When Do Trait\u2010Based Higher Order Interactions and Individual Variation Promote Robust Species Coexistence?"
     year: '2025'
   NUBQBAsAAAAJ:qUcmZB5y_30C:
-    citations: 6
+    citations: 7
     title: 'Transitions and its indicators in mutualistic meta-networks: effects of network topology, size of metacommunities and species dispersal'
     year: '2023'
   NUBQBAsAAAAJ:u-x6o8ySG0sC:
-    citations: 71
+    citations: 73
     title: Community and species-specific responses of plant traits to 23 years of experimental warming across subarctic tundra plant communities
     year: '2017'
   NUBQBAsAAAAJ:u5HHmVD_uO8C:
