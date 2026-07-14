@@ -17,8 +17,16 @@ profiles:
       <p>Third floor, Biological Sciences Building, Indian Institute of Science</p>
       <p>Bangalore 560 012, India</p>
 
-  # 2.Lab Member
+# 5. Lab Member
   - align: left
+    image: swas.jpg
+    content: swas.md
+    image_circular: true 
+    more_info: >
+      <p>Swastik, PhD student</p>
+
+  # 2.Lab Member
+  - align: right
     image: philipp.jpg
     content: philipp.md
     image_circular: true 
@@ -27,7 +35,7 @@ profiles:
       <p> Bielefeld University</p>
 
   # 3. Lab Member
-  - align: right
+  - align: left
     image: sarah.jpg
     content: sarah.md
     image_circular: true 
@@ -36,11 +44,13 @@ profiles:
 
 
 # 4. Lab Member
-  - align: left
+  - align: right
     image: leo.jpg
     content: leo.md
     image_circular: true 
     more_info: >
       <p>Leopold Mürtz, BSc student</p>
+
+
       
 ---
