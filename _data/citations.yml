@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-24'
 papers:
   NUBQBAsAAAAJ:2osOgNQ5qMEC:
     citations: 42
@@ -30,11 +30,11 @@ papers:
     title: Predicting recoverability of collapsed food webs through perturbation and dimension reduction
     year: '2025'
   NUBQBAsAAAAJ:UeHWp8X0CEIC:
-    citations: 123
+    citations: 125
     title: 'Tundra Trait Team: A database of plant traits spanning the tundra biome'
     year: '2018'
   NUBQBAsAAAAJ:UebtZRa9Y70C:
-    citations: 45
+    citations: 44
     title: Effect of time-series length and resolution on abundance- and trait-based early warning signals of population declines
     year: '2020'
   NUBQBAsAAAAJ:Zph67rFs4hoC:
