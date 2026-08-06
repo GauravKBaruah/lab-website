@@ -25,8 +25,16 @@ profiles:
     more_info: >
       <p>Swastik, PhD student</p>
 
-  # 3.Lab Member
+# 3. Lab Member
   - align: right
+    image: swas.jpg
+    content: yogesh.md
+    image_circular: true 
+    more_info: >
+      <p>Yogesh Kumar KC, Research Assistant</p>
+
+  # 4.Lab Member
+  - align: left
     image: philipp.jpg
     content: philipp.md
     image_circular: true 
@@ -35,7 +43,7 @@ profiles:
       <p> Bielefeld University</p>
 
   # 4. Lab Member
-  - align: left
+  - align: right
     image: sarah.jpg
     content: sarah.md
     image_circular: true 
@@ -44,7 +52,7 @@ profiles:
 
 
 # 5. Lab Member
-  - align: right
+  - align: left
     image: leo.jpg
     content: leo.md
     image_circular: true 
