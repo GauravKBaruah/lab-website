@@ -42,7 +42,7 @@ profiles:
       <p>Philipp Sewing, BSc student </p>
       <p> Bielefeld University</p>
 
-  # 4. Lab Member
+  # 5. Lab Member
   - align: right
     image: sarah.jpg
     content: sarah.md
@@ -51,7 +51,7 @@ profiles:
       <p>Sarah Antl, BSc student</p>
 
 
-# 5. Lab Member
+# 6. Lab Member
   - align: left
     image: leo.jpg
     content: leo.md
