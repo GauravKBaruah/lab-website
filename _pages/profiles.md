@@ -27,7 +27,7 @@ profiles:
 
 # 3. Lab Member
   - align: right
-    image: Yogesh.jpg
+    image: swas.jpg
     content: yogesh.md
     image_circular: true 
     more_info: >
