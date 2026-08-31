@@ -33,8 +33,16 @@ profiles:
     more_info: >
       <p>Yogesh Kumar KC, Research Assistant</p>
 
-  # 4.Lab Member
+# 4. Lab Member
   - align: left
+    image: niha.jpg
+    content: niharika.md
+    image_circular: true 
+    more_info: >
+      <p>Niharika Chipli, Research Assistant</p>
+
+  # 5.Lab Member
+  - align: right
     image: philipp.jpg
     content: philipp.md
     image_circular: true 
@@ -42,7 +50,7 @@ profiles:
       <p>Philipp Sewing, BSc student </p>
       <p> Bielefeld University</p>
 
-  # 5. Lab Member
+  # 6. Lab Member
   - align: right
     image: sarah.jpg
     content: sarah.md
@@ -51,7 +59,7 @@ profiles:
       <p>Sarah Antl, BSc student</p>
 
 
-# 6. Lab Member
+# 7. Lab Member
   - align: left
     image: leo.jpg
     content: leo.md
