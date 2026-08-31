@@ -35,8 +35,8 @@ profiles:
 
 # 4. Lab Member
   - align: left
-    image: niha.jpg
-    content: niharika.md
+    image: niha.jpeg
+    content: niha.md
     image_circular: true 
     more_info: >
       <p>Niharika Chipli, Research Assistant</p>
